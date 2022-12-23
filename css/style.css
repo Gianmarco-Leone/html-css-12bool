@@ -1,3 +1,4 @@
+/* PRIMA SEZIONE */
 #text-column h1 {
     font-size: 1.2rem;
     font-weight: bold;
@@ -24,4 +25,9 @@
     border: 1px solid #006CFA;
     height: 60px;
     line-height: 60px;
+}
+
+/* SECONDA SEZIONE */
+#offset-column h2 {
+    font-weight: bold;
 }
