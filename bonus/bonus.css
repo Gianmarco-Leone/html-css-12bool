@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+}
+/* UTILS */
+
+/* Background color */
+.bg-brown {
+ background-color: rgb(150, 82, 30);
+}
+
+.bg-black {
+    background-color: #111;
+}
+
+.bg-white {
+    background-color: #FFF;
+}
+
+/* Border */
+.bt-sm-black {
+    border-top: 8px solid black;
+}
+
+.bl-lg-black {
+    border-left: 32px solid black;
+}
+
+.br-lg-black {
+    border-right: 32px solid black;
+}
+
+.bl-xl-black {
+    border-left: 64px solid black;
+}
+
+.br-xl-black {
+    border-right: 64px solid black;
+}
+
+.bl-xs-white {
+    border-left: 3px solid white;
+}
+
+.br-xs-white {
+    border-right: 3px solid white;
+}
+
+.bl-lg-white {
+    border-left: 32px solid white;
+}
+
+.br-lg-white {
+    border-right: 32px solid white;
+}
+
+.bl-xl-white {
+    border-left: 64px solid white;
+}
+
+.br-xl-white {
+    border-right: 64px solid white;
+}
+
+.bl-md-brown {
+    border-left: 16px solid rgb(150, 82, 30);
+}
+
+.br-md-brown {
+    border-right: 16px solid rgb(150, 82, 30);
+}
+
+.bl-lg-brown {
+    border-left: 32px solid rgb(150, 82, 30);
+}
+
+.br-lg-brown {
+    border-right: 32px solid rgb(150, 82, 30);
+}
+
+.br-xl-pink {
+    border-right: 64px solid pink;
+}
+
+.bl-xl-pink {
+    border-left: 64px solid pink;
+}
+
+.br-xxl-pink {
+    border-right: 80px solid pink;
+}
+
+.bl-xxl-pink {
+    border-left: 80px solid pink;
+}
+
+.bl-xl-lightblue {
+    border-left: 64px solid lightblue;
+}
+
+.br-xl-lightblue {
+    border-right: 64px solid lightblue;
+}
+
+/* BODY */
+.box {
+    min-height: 30px;
+}
